@@ -8,3 +8,7 @@ Developed as the final project for Digital Systems Laboratory - ECE385 at the Un
 ### System verilog files
 - located in the System Verilog folder
 - included for ease of access
+
+# [Video Demo](https://youtu.be/omBCoxY6hgE)
+
+
